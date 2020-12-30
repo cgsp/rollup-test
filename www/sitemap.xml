@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- 首页 -->
+    <url>
+        <loc>http://open.ximalaya.com</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://open.ximalaya.com/home</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 解决方案-景点语音导览 -->
+    <url>
+        <loc>http://open.ximalaya.com/solve/scenic</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 解决方案-音频接入 -->
+    <url>
+        <loc>https://open.ximalaya.com/solve/audio-access</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 解决方案-知识营收 -->
+    <url>
+        <loc>https://open.ximalaya.com/solve/paid-show</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 解决方案-企业培训 -->
+    <url>
+        <loc>http://open.ximalaya.com/solve/company-train</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 解决方案-亲子儿童 -->
+    <url>
+        <loc>https://open.ximalaya.com/solve/baby-son</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 开发接入-移动应用接入 -->
+    <url>
+        <loc>https://open.ximalaya.com/dev-access/mobile-app</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 开发接入-智能硬件接入 -->
+    <url>
+        <loc>https://open.ximalaya.com/dev-access/hareware-app</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 开发接入-网页应用接入 -->
+    <url>
+        <loc>https://open.ximalaya.com/dev-access/web-app</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 文档中心-新手指南 -->
+    <url>
+        <loc>https://open.ximalaya.com/doc/quickStart</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 文档中心-技术文档 -->
+    <url>
+        <loc>https://open.ximalaya.com/doc/api</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 文档中心-SDK下载 -->
+    <url>
+        <loc>https://open.ximalaya.com/doc/sdk?type=common</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 文档中心-服务端API调试工具 -->
+    <url>
+        <loc>https://open.ximalaya.com/doc/tool</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 帮助支持 -->
+    <url>
+        <loc>https://open.ximalaya.com/docHelp</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 文档中心-账号申诉 -->
+    <url>
+        <loc>https://open.ximalaya.com/globalApplyForMainAccount</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 联系我们 -->
+    <url>
+        <loc>https://open.ximalaya.com/globalContractUs</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 产品建议 -->
+    <url>
+        <loc>https://open.ximalaya.com/globalSuggest</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 管理中心 -->
+    <url>
+        <loc>https://open.ximalaya.com/Management/homepage</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 应用中心 -->
+    <url>
+        <loc>https://open.ximalaya.com/developer/app</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 内容中心 -->
+    <url>
+        <loc>https://open.ximalaya.com/Management/content-operations/system-home</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 数据中心 -->
+    <url>
+        <loc>https://open.ximalaya.com/Management/data-operations/user-active-data</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 活动中心 -->
+    <url>
+        <loc>https://open.ximalaya.com/Management/activity-operations/enroll</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 分销中心 -->
+    <url>
+        <loc>https://open.ximalaya.com/Management/distribution</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 账号管理 -->
+    <url>
+        <loc>https://open.ximalaya.com/Management/userAuth/role</loc>
+        <lastmod>2020-11-09T06:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
